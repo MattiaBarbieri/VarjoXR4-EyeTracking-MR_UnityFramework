@@ -1,5 +1,6 @@
 # VarjoXR4-EyeTracking-MR_UnityFramework
-Unity framework for real-time eye tracking with Varjo XR-4 in Mixed Reality. Includes gaze-contingent object control, fixation point tracking, and data logging for ophthalmic and XR research.tion studies. This project is the [successor of the HTC Vive Pro Eye]([url](https://github.com/MattiaBarbieri/ViveProEye_OculomotorLab)).
+Unity framework for real-time eye tracking with Varjo XR-4 in Mixed Reality. Includes gaze-contingent object control, fixation point tracking, and data logging for ophthalmic and XR research.tion studies. The project is the trasposition of the former project https://github.com/MattiaBarbieri/ViveProEye_OculomotorLab design for HTC Vive Pro Eye. 
+
 
 
 ## 🧠 Purpose
